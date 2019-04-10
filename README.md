@@ -1,3 +1,79 @@
+# Tus finanzas
+> El banco contigo a donde vayas
+
+## Preámbulo
+
+[FinTech](https://www.fintechmexico.org/qu-es-fintech) es una industria creciente en el mundo. Para el 2018, México era el segundo mayor ecosistema FinTech en Latinoamérica y uno de los principales motores de innovación financiera de la región. Ahora se perfila para debancar a Brasil, gracias al surgimiento de startups que ofrecen una variedad de servicios.
+
+FINANZAS + TECNOLOGÍA = FINTECH
+
+## Descripción del proyecto
+Propuesta de rediseño de la app financiera Tus Finanzas.
+
+2. RETO
+Fundamentación para la propuesta de nuevo diseño tomando en cuenta a los usuarios, heurísticas y competencia.
+Sugerencias sobre el incremento en el presupuesto para Facebook Ads.
+Sugerir próximos desarrollos.
+
+
+3. OBJETIVO DE NEGOCIO
+???
+Ofrecer una herramienta financiera ágil y moderna
+
+
+4. OBJETIVO DE LA MARCA
+
+
+Mide el detalle de tus finanzas
+Crea metas de ahorro
+Administra tus gastos 
+
+
+5. OBJETIVOS DE COMUNICACIÓN
+Una herramienta financiera  fresca y una banca moderna.
+ 
+6. TARGET ¿A QUIEN LE ESTAMOS HABLANDO?
+Hay dos perfiles de usuarios:
+Primario
+Secundario
+
+
+7. ¿QUÉ QUEREMOS DECIRLE AL CONSUMIDOR?
+Con Tus finanzas recuperarás el control sobre tus finanzas.
+
+8. INSIGTHS DE Y AL CONSUMIDOR
+Los usuarios creen que se trata de una app sobre el control de los gastos.
+Les pareció una app sencilla de utilizar.
+Los usuarios no identifican la opción de ahorro.
+Los usuarios creen importante contar con un plan de ahorro.
+A los usuarios les parece inseguro el tener una una foto de perfil en la app financiera.
+Los usuarios jóvenes (18 años) no emitieron objeciones sobre el proceso de registro; en cambio, los usuarios más grande (28 a 33 años) expresaron mayores inconvenientes sobre el registro, como: anotar el número de cuenta, colocar la huella digital.
+
+9. CARÁCTER DE LA MARCA
+Moderna: acorde con las tendencias sobre banca digital y liberando al usuario de los trámites de la banca tradicional.
+
+Fresca: dirigida a los jóvenes. Millennials?
+
+
+
+10. ESTILO Y TONO
+Amable
+Personaliza (menciona el nombre de pila del usuario)
+
+
+11. LOS NO
+La preferencia por el desarrollo en IOS, deja sin la oportunidad de obtener la app al 88 por ciento de la población en México con más de mil 230 millones de unidades.
+
+12. BENEFICIOS:
+Categorías: los gastos son presentados en categorías identificables.
+Ahorro: se le permite al usuario crear metas de ahorro.
+Recupera el control: el usuario tiene control sobre su dinero.
+Mirar los detalles de tus operaciones: el usuario puede saber en dónde y en qué gasto.
+
+
+
+
+
 # Aplicación financiera
 
 ## Preámbulo
